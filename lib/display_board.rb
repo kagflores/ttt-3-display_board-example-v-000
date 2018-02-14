@@ -2,7 +2,5 @@
 def display_board
 row1 = ["   ", "|", "   ", "|", "   "]
 separating_line = "-----------"
-row2 = ["   ", "|", "   ", "|", "   "]
-row3 = ["   ", "|", "   ", "|", "   "]
-print display_board
-end;
+puts row1.join, separating_line
+end

@@ -4,5 +4,5 @@ row1 = ["   ", "|", "   ", "|", "   "]
 separating_line = "-----------"
 row2 = ["   ", "|", "   ", "|", "   "]
 row3 = ["   ", "|", "   ", "|", "   "]
-prints display_board
+print display_board
 end;

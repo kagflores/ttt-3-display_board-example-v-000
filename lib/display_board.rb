@@ -2,5 +2,7 @@
 def display_board
 row1 = ["   ", "|", "   ", "|", "   "]
 separating_line = "-----------"
-puts row1.join, separating_line
+row2 = ["   ", "|", "   ", "|", "   "]
+row3 = ["   ", "|", "   ", "|", "   "]
+puts row1.join, separating_line, row2.join, separating_line, row3.join
 end

@@ -5,4 +5,4 @@ separating_line = "-----------"
 row2 = ["   ", "|", "   ", "|", "   "]
 row3 = ["   ", "|", "   ", "|", "   "]
 puts display_board
-end
+end;
